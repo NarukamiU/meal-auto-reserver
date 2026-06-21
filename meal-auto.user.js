@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  朝食A固定・昼食は揚げ物回避で自動予約
-// @match        https://rieils.gif.jp*
+// @match        https://rieils.gif.jp/*
 // @grant        none
 // ==/UserScript==
 
