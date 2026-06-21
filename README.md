@@ -161,5 +161,5 @@ Chromeがおすすめです。
 # 📌 対象URL
 
 ```text
-https://rieils.gif.jp/zigcoq00_0200*
+https://rieils.gif.jp/*
 ```
